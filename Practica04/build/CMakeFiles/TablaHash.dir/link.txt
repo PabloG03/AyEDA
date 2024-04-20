@@ -1,0 +1,1 @@
+g++  -w  -rdynamic CMakeFiles/TablaHash.dir/src/main.cc.o  -o TablaHash 
