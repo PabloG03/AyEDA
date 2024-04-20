@@ -1,0 +1,1 @@
+g++ -w -o -c -Wall -g -Wextra -pedantic -std=c++11 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/MetodosOrdenacion.dir/src/ordenacion_main.cc.o -o MetodosOrdenacion 

@@ -1,0 +1,3 @@
+/Users/EnriquE/Desktop/AyEDA/Practica05/build/CMakeFiles/MetodosOrdenacion.dir
+/Users/EnriquE/Desktop/AyEDA/Practica05/build/CMakeFiles/edit_cache.dir
+/Users/EnriquE/Desktop/AyEDA/Practica05/build/CMakeFiles/rebuild_cache.dir
