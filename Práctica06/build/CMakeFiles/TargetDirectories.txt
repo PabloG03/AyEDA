@@ -1,0 +1,3 @@
+/home/pablo/Escritorio/AyEDA/Práctica06/Práctica06/build/CMakeFiles/rebuild_cache.dir
+/home/pablo/Escritorio/AyEDA/Práctica06/Práctica06/build/CMakeFiles/edit_cache.dir
+/home/pablo/Escritorio/AyEDA/Práctica06/Práctica06/build/CMakeFiles/ProgramaArbol.dir

@@ -1,0 +1,1 @@
+g++  -w -o -c -Wall -g -Wextra -pedantic -std=c++11  -rdynamic CMakeFiles/ProgramaArbol.dir/src/main.cc.o  -o ProgramaArbol 
